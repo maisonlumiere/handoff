@@ -1,0 +1,11 @@
+{
+  "name": "handoff",
+  "owner": { "name": "maisonlumiere" },
+  "plugins": [
+    {
+      "name": "handoff",
+      "source": "./",
+      "description": "/catchup and /wrapup — keep project state in STATE.md instead of in a long chat."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "handoff",
+  "version": "1.0.0",
+  "description": "Two commands for ending and starting work sessions. /wrapup writes project state to STATE.md; /catchup reads it back and cross-checks it against git, so you can start a fresh chat every time instead of keeping one long thread alive.",
+  "author": { "name": "maisonlumiere" },
+  "license": "MIT",
+  "keywords": ["context", "state", "handoff", "session", "memory", "workflow"]
+}
